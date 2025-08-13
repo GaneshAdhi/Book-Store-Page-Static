@@ -5,6 +5,8 @@ It consists of a **Home Page** showcasing multiple books and separate **Book Det
 
 ---
 
+Live Preview: https://rambookdetail.ccbp.tech/
+
 ## 📸 Project Preview
 
 - **Book Store Home Page**  
